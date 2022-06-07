@@ -1,2 +1,4 @@
 my_workspace.sublime-workspace
 *.exe
+*/input.txt
+*/output.txt
