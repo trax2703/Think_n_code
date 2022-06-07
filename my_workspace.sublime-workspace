@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CsrBtCmReadIn",
+				"CsrBTCmReadInquiryModeReq_struct"
+			],
+			[
+				"str",
+				"string_compare"
+			],
+			[
+				"num",
+				"num_o"
+			],
+			[
+				"L2",
+				"L2CAP_ID"
+			],
+			[
+				"MPI",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"tot",
+				"total_n_s"
+			],
+			[
+				"pa",
+				"parallel_time"
+			],
+			[
+				"parallel",
+				"parallel_sieve"
+			],
+			[
+				"ca",
+				"cache_unfriendly_time"
+			],
+			[
+				"C",
+				"cache_unfriendly_primes"
+			],
+			[
+				"Parallel",
+				"parallel_sieve"
+			],
+			[
+				"pr",
+				"print_vector"
+			],
+			[
+				"cache",
+				"cache_friendly"
+			],
+			[
+				"no",
+				"no_of_points_square"
+			],
+			[
+				"no_of_points",
+				"no_of_points_circle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CodeForces/test.cpp",
+			"settings":
+			{
+				"buffer_size": 303,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "CodeForces/input.txt",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CodeForces/output.txt",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gsheakar/brainstorm/Think_n_code",
+		"/C/Users/gsheakar/brainstorm/Think_n_code/CodeForces"
+	],
+	"file_history":
+	[
+		"/C/Users/gsheakar/brainstorm/Think_n_code/README.md",
+		"/C/Users/gsheakar/brainstorm/Think_n_code/CodeForces/output.txt",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/safe_copy/vm_synergy/adk/src/libs/synergy/Makefile",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/test/test.c",
+		"/C/Users/gsheakar/hope_work_code/vm_synergy/adk/src/libs/synergy/bt/inc/csr_bt_common_streams.h",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/obex_way/readme.txt",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/obex_way/csr_bt_streams.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/test/testing.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/obex_way/util.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/obex_way/csr_bt_av_main.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/obex_way/csr_bt_streams.h",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/csr_bt_streams.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/type_stream.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/common_stream/test.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_5.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_4.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_1_mpi.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_2.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_6.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/last_padp_prac/pgm_1.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm_3.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp/pgm_3.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm1.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm1_mpi.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm_2.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm_4.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm_5.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp_prac/pgm_6.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp/pgm_6.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp/pgm_1.cpp",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp/pgm_2.c",
+		"/C/Users/gsheakar/OneDrive - Qualcomm/Desktop/padp/prac_pgm_6.cpp"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\gsheakar\\brainstorm\\Think_n_code"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CodeForces/test.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "CodeForces/input.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "CodeForces/output.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.745241257193,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
