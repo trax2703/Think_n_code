@@ -4,3 +4,4 @@ Problems from different Sources, which makes us think :)
 Platforms:
 
 -> CodeForces
+-> Project Euler
