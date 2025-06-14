@@ -11,7 +11,8 @@ int main() {
     
     int n;
     cin>>n;
-    cout<<"Hello World!"<<endl;
-    cout<<n<<endl;
+
+    cout<<"Hello World!! "<<n<<" is here"<<endl;
+
     return 0;
 }

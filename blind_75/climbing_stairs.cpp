@@ -9,9 +9,19 @@ int main() {
     #endif
     //
     
+
     int n;
     cin>>n;
-    cout<<"Hello World!"<<endl;
-    cout<<n<<endl;
+
+    int a[31];
+
+    a[1] = 1;
+    a[2] = 2;
+    for (int i=3; i<=n; i++)
+    {
+        a[i] = a[i-1] + a[i-2];
+    }
+
+    cout<<a[n]<<endl;
     return 0;
 }
