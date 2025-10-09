@@ -1,17 +1,15 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
+#include <iostream>
+
 using namespace std;
 
-int main() {
-    // Write this Optionally, if you are taking input from file(input.txt) and putting it to a file(output.txt)
-    #ifndef ONLINE_JUDGE
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
-    #endif
-    //
-    
-    int n;
-    cin>>n;
-    cout<<"Hello World!"<<endl;
-    cout<<n<<endl;
+int main()
+{
+    string name;
+    cout<<"Enter your name:"<<endl;
+    cin>>name;
+
+    cout<<name;
+
     return 0;
 }
